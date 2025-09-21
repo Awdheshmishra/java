@@ -11,7 +11,7 @@ public class calculator {
         double add=first+second;
         double sub=first-second;
         double mul=first*second;
-        double div=first/second;
+        double div=(double) first/second;
         double mod=first%second;
 
         System.out.println("add of two numbers"+add);
