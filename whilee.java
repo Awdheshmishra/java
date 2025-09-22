@@ -1,4 +1,4 @@
-public class whilw {
+public class whilee{
     public static void main(String[] args) {
         // int num =10;
         // while (num<=10) {
